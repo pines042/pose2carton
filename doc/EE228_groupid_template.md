@@ -49,7 +49,7 @@ EE228 课程大作业，利用3D骨架控制3D卡通人物。
 
 3.	匹配完之后，再运行一遍transfer.py即可对模型节点匹配，并会生成pkl文件和obj_seq_5_3dmodel文件夹，这个文件夹包含对应obj_seq_5中各个模型动作的模型。
 
-4.	匹配完成之后，运行vis.py可以可视化，观察节点之间的对应关系是否正确。如果匹配正确，则保存此次vis生成的mp4视频。
+4.	匹配完成之后，运行vis.py进行可视化，观察节点之间的对应关系是否正确。如果匹配正确，则保存此次vis生成的mp4视频。
 
 有蒙皮流程：
 
@@ -76,10 +76,21 @@ EE228 课程大作业，利用3D骨架控制3D卡通人物。
 
 这里放置来自你最终匹配结果的截图， 如
 
-![image](../img/pose2carton.png)
-
-
-
+![image](../img/res01.png)
+![image](../img/res02.png)
+![image](../img/res03.png)
+![image](../img/res04.png)
+![image](../img/res05.png)
+![image](../img/res06.png)
+![image](../img/res07.png)
+![image](../img/res08.png)
+![image](../img/res09.png)
+![image](../img/res10.png)
+![image](../img/res11.png)
+![image](../img/res12.png)
+![image](../img/res13.png)
+![image](../img/res14.png)
+![image](../img/res15.png)
 
 
 # 协议 
